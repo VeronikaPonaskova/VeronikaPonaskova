@@ -1,8 +1,8 @@
 
 ## Начинающий инженер по обеспечению качества с практическим опытом в тестировании web-приложений и мобильных приложений
 
-|---------|-------|
-Инструменты
+
+|Инструменты|
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0E68C?style=for-the-badge&logo 
 )
 ![SQL](https://img.shields.io/badge/-SQL-F0E68C?style=for-the-badge&logo 
