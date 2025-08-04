@@ -27,3 +27,8 @@
 
 Сертификаты
 ![Futer](https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/7nGf8iZqiq7BrDK38AjcbuXcbPtkuGZw.png)
+![Futer](https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/CzquHJujfMpIMoJyQrLosZ1ecV16tGNl.png)
+![Futer](https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/UTnlR9kQ2eaKL9pz8Y0H8mpWhjuE1qzV.png)
+![Futer](https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/ZHheYjy2wbnDSnUR3OhEcluzsaZL1vWb.png)
+![Futer](https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/stepik-certificate-171826-cd278bc.pdf)
+![Futer](https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/stepik-certificate-sql.pdf)
