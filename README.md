@@ -31,7 +31,7 @@
 <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/ARMXhqjAN3r2KDOukbovzKE4BLX3jEZz.png" width="200"/>
 <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/7nGf8iZqiq7BrDK38AjcbuXcbPtkuGZw.png" width="200"/>
 <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/CzquHJujfMpIMoJyQrLosZ1ecV16tGNl.png" width="200"/>
-<br>
+
 <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/UTnlR9kQ2eaKL9pz8Y0H8mpWhjuE1qzV.png" width="200"/>
 <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/ZHheYjy2wbnDSnUR3OhEcluzsaZL1vWb.png" width="200"/>
 
