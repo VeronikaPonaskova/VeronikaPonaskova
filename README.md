@@ -27,11 +27,10 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-F0E68C?style=for-the-badge&logo)](https://www.linkedin.com/in/%D0%B2%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BD%D0%B0%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0-6059b7351/)
 
 Сертификаты
-<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/ARMXhqjAN3r2KDOukbovzKE4BLX3jEZz.png" width="100"/>
-<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/7nGf8iZqiq7BrDK38AjcbuXcbPtkuGZw.png" width="100"/>
-<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/CzquHJujfMpIMoJyQrLosZ1ecV16tGNl.png" width="100"/>
-<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/UTnlR9kQ2eaKL9pz8Y0H8mpWhjuE1qzV.png" width="100"/>
-<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/ZHheYjy2wbnDSnUR3OhEcluzsaZL1vWb.png" width="100"/>
-<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/stepik-certificate-171826-cd278bc.png" width="100"/>
-<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/stepik-certificate-sql.png" width="100"/>
+<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/ARMXhqjAN3r2KDOukbovzKE4BLX3jEZz.png" width="150"/>
+<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/7nGf8iZqiq7BrDK38AjcbuXcbPtkuGZw.png" width="150"/>
+<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/CzquHJujfMpIMoJyQrLosZ1ecV16tGNl.png" width="150"/>
+<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/UTnlR9kQ2eaKL9pz8Y0H8mpWhjuE1qzV.png" width="150"/>
+<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/ZHheYjy2wbnDSnUR3OhEcluzsaZL1vWb.png" width="150"/>
+
 
