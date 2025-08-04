@@ -26,4 +26,4 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-F0E68C?style=for-the-badge&logo)](https://www.linkedin.com/in/%D0%B2%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BD%D0%B0%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0-6059b7351/)
 
 Сертификаты
-![(https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/7nGf8iZqiq7BrDK38AjcbuXcbPtkuGZw.png)]
+![Futer](https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/7nGf8iZqiq7BrDK38AjcbuXcbPtkuGZw.png)
