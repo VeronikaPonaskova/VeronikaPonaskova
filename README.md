@@ -10,7 +10,7 @@
 Разработка простых автотестов для веб-приложений для повышения эффективности тестирования.
 
 ## Инструменты
-<div style='border-radius: 8px; display: inline-block;'>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img  style='border-radius: 8px;' src="https://img.shields.io/badge/-JavaScript-FFFFF0?style=for-the-badge&logo=JavaScript" alt="JavaScript"/>
   <img style='border-radius: 8px;' src="https://img.shields.io/badge/-SQL-FFFFF0?style=for-the-badge&logo=SQL" alt="SQL"/>
   <img style='border-radius: 8px;' src="https://img.shields.io/badge/-GIT-FFFFF0?style=for-the-badge&logo=GIT" alt="GIT"/>
@@ -36,15 +36,15 @@
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <!-- Телеграм -->
   <a href="https://t.me/veronikaponask" target="_blank" style="
-    display: flex; align-items: center; padding: 10px 20px; border-radius: 8px; background-color: #72a6c0ff; color: white; text-decoration: none; font-weight: bold;">
+    display: flex; align-items: center; padding: 10px 20px; border-radius: 8px; background-color: #72a6c0ff; color: white; text-decoration: none; font-weight: bold; overflow:hidden;">
     <img src="https://img.icons8.com/ios-filled/24/ffffff/telegram-app.png" style="margin-right: 10px;" alt="Telegram"/>
     Telegram
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/%D0%B2%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BD%D0%B0%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0-6059b7351/" target="_blank" style="
-    display: flex; align-items: center; padding: 10px 20px; border-radius: 8px; background-color: #72a6c0ff; color: white; text-decoration: none; font-weight: bold;">
-    <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" style="margin-right: 10px;" alt="LinkedIn"/>
+    display:flex; align-items:center; padding:10px 20px; border-radius:8px; background-color:#72a6c0ff; color:white;text-decoration:none;font-weight:bold; overflow:hidden;">
+    <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" style="margin-right:10px;" alt="LinkedIn"/>
     LinkedIn
   </a>
 </div>
