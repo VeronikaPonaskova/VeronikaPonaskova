@@ -11,7 +11,7 @@
 
 ## Инструменты
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img   src="https://img.shields.io/badge/-JavaScript-FFFFF0?style=for-the-badge&logo=JavaScript" alt="JavaScript" style='border-radius: 8px;'/>
+  <img   src="https://img.shields.io/badge/-JavaScript-FFFFF0?style=for-the-badge&logo=JavaScript" alt="JavaScript"/>
   <img style='border-radius: 8px;' src="https://img.shields.io/badge/-SQL-FFFFF0?style=for-the-badge&logo=SQL" alt="SQL"/>
   <img style='border-radius: 8px;' src="https://img.shields.io/badge/-GIT-FFFFF0?style=for-the-badge&logo=GIT" alt="GIT"/>
   <img style='border-radius: 8px;' src="https://img.shields.io/badge/-POSTMAN-FFFFF0?style=for-the-badge&logo=POSTMAN" alt="POSTMAN"/>
@@ -24,12 +24,13 @@
 
 ## Проекты
 Тестирование сайта интернет-магазина:
-(https://ru.yougile.com/board/f7bus5h3gxdx)
+https://ru.yougile.com/board/f7bus5h3gxdx
 
 Тестирование мобильного приложения:
-(https://ru.yougile.com/board/w6eefknpwbr0)
+https://ru.yougile.com/board/w6eefknpwbr0
 
-Автоматизированное тестирование сайта интернет-магазина
+Автоматизированное тестирование сайта интернет-магазина:
+https://github.com/VeronikaPonaskova/autotesting-js-basics
 
 ## Контакты
 
