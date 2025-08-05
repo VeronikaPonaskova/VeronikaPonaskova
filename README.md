@@ -11,25 +11,43 @@
 
 ## Инструменты
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-JavaScript-F0E68C?style=for-the-badge&logo=JavaScript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-SQL-F0E68C?style=for-the-badge&logo=SQL" alt="SQL"/>
-  <img src="https://img.shields.io/badge/-GIT-F0E68C?style=for-the-badge&logo=GIT" alt="GIT"/>
-  <img src="https://img.shields.io/badge/-POSTMAN-F0E68C?style=for-the-badge&logo=POSTMAN" alt="POSTMAN"/>
-  <img src="https://img.shields.io/badge/-HTML-F0E68C?style=for-the-badge&logo=HTML5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-DEVTOOLS-F0E68C?style=for-the-badge&logo=Chrome" alt="DevTools"/>
-  <img src="https://img.shields.io/badge/-ANDROIDSTUDIO-F0E68C?style=for-the-badge&logo=AndroidStudio" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/-CharlesProxy-F0E68C?style=for-the-badge&logo=Charles" alt="Charles Proxy"/>
-  <img src="https://img.shields.io/badge/-YouGile-F0E68C?style=for-the-badge&logo=YouGile" alt="YouGile"/>
+  <img  style='border-radius: 8px;' src="https://img.shields.io/badge/-JavaScript-FFFFF0?style=for-the-badge&logo=JavaScript" alt="JavaScript"/>
+  <img style='border-radius: 8px;' src="https://img.shields.io/badge/-SQL-FFFFF0?style=for-the-badge&logo=SQL" alt="SQL"/>
+  <img style='border-radius: 8px;' src="https://img.shields.io/badge/-GIT-FFFFF0?style=for-the-badge&logo=GIT" alt="GIT"/>
+  <img style='border-radius: 8px;' src="https://img.shields.io/badge/-POSTMAN-FFFFF0?style=for-the-badge&logo=POSTMAN" alt="POSTMAN"/>
+  <img style='border-radius: 8px;' src="https://img.shields.io/badge/-HTML-FFFFF0?style=for-the-badge&logo=HTML5" alt="HTML5"/>
+  <img style='border-radius: 8px;' src="https://img.shields.io/badge/-DEVTOOLS-FFFFF0?style=for-the-badge&logo=Chrome" alt="DevTools"/>
+  <img style='border-radius: 8px;' src="https://img.shields.io/badge/-ANDROIDSTUDIO-FFFFF0?style=for-the-badge&logo=AndroidStudio" alt="Android Studio"/>
+  <img style='border-radius: 8px;' src="https://img.shields.io/badge/-CharlesProxy-FFFFF0?style=for-the-badge&logo=Charles" alt="Charles Proxy"/>
+  <img style='border-radius: 8px;' src="https://img.shields.io/badge/-YouGile-FFFFF0?style=for-the-badge&logo=YouGile" alt="YouGile"/>
 </div>
 
 ## Проекты
+Тестирование сайта интернет-магазина:
 (https://ru.yougile.com/board/f7bus5h3gxdx)
+
+Тестирование мобильного приложения:
 (https://ru.yougile.com/board/w6eefknpwbr0)
 
+Автоматизированное тестирование сайта интернет-магазина
+
 ## Контакты
-[![Telegram](https://img.shields.io/badge/-Telegram-F0E68C?style=for-the-badge&logo 
-)](@veronikaponask)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-F0E68C?style=for-the-badge&logo)](https://www.linkedin.com/in/%D0%B2%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BD%D0%B0%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0-6059b7351/)
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <!-- Телеграм -->
+  <a href="https://t.me/veronikaponask" target="_blank" style="
+    display: flex; align-items: center; padding: 10px 20px; border-radius: 8px; background-color: #72a6c0ff; color: white; text-decoration: none; font-weight: bold;">
+    <img src="https://img.icons8.com/ios-filled/24/ffffff/telegram-app.png" style="margin-right: 10px;" alt="Telegram"/>
+    Telegram
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/%D0%B2%D0%B5%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BD%D0%B0%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B0-6059b7351/" target="_blank" style="
+    display: flex; align-items: center; padding: 10px 20px; border-radius: 8px; background-color: #72a6c0ff; color: white; text-decoration: none; font-weight: bold;">
+    <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" style="margin-right: 10px;" alt="LinkedIn"/>
+    LinkedIn
+  </a>
+</div>
 
 ## Сертификаты пройденных курсов
 
