@@ -10,7 +10,7 @@
 Разработка простых автотестов для веб-приложений для повышения эффективности тестирования.
 
 ## Инструменты
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style='border-radius: 8px; display: inline-block;'>
   <img  style='border-radius: 8px;' src="https://img.shields.io/badge/-JavaScript-FFFFF0?style=for-the-badge&logo=JavaScript" alt="JavaScript"/>
   <img style='border-radius: 8px;' src="https://img.shields.io/badge/-SQL-FFFFF0?style=for-the-badge&logo=SQL" alt="SQL"/>
   <img style='border-radius: 8px;' src="https://img.shields.io/badge/-GIT-FFFFF0?style=for-the-badge&logo=GIT" alt="GIT"/>
@@ -52,5 +52,4 @@
 ## Сертификаты пройденных курсов
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/ARMXhqjAN3r2KDOukbovzKE4BLX3jEZz.png" width="200"/> <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/7nGf8iZqiq7BrDK38AjcbuXcbPtkuGZw.png" width="200"/> <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/CzquHJujfMpIMoJyQrLosZ1ecV16tGNl.png" width="200"/> <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/UTnlR9kQ2eaKL9pz8Y0H8mpWhjuE1qzV.png" width="200"/> <img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/ZHheYjy2wbnDSnUR3OhEcluzsaZL1vWb.png" width="200"/>
-<img src="https://github.com/VeronikaPonaskova/VeronikaPonaskova/blob/main/assets/stepik-certificate-171826-cd278bc.pdf" width="200"/> </div>
- </div>
+</div>
